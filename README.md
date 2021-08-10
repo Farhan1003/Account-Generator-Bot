@@ -22,7 +22,7 @@ Users can run the `.gen` command ONLY in that channel (Instructions to set it is
 
 **Abillity to Set a LOG channel**
 
-You can set a log channel where it will Log the account Genorations Example: @User has generated SPOTIFY cheeseKei@gmail.com:57984612!#
+You can set a log channel where it will Log the account Genorations Example: `@User has generated SPOTIFY cheeseKei@gmail.com:57984612!`#
 
 **.Gen Cooldown**
 
