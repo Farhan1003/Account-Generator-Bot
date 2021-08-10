@@ -95,3 +95,9 @@ https://media.discordapp.net/attachments/831933957296619570/874544715754770442/u
 
 - To Submit an issue follow this link https://github.com/Farhan1003/Account-Genorator-discord.js/issues
 - Or Contact Naomi#1234 on discord
+
+## Disclaimer
+
+- This is my first ever Discord.js bot/project, Sorry for any code erros ill try to fix them.
+- You can Share, Modify, Redistribute, Use this code but don't claim as it was made by you. Give credit where it's needed. Thanks!
+
