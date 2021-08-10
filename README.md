@@ -81,10 +81,10 @@ Bot Cycles thru 4 different statuses each in 15seconds. You can change it via mo
 **16. If you get a error when running a command or starting up make sure you followed all of the steps and the Requirements.** 
 
 ## Images
-![img](https://media.discordapp.net/attachments/831933957296619570/874544102685966376/unknown.png?width=629&height=452)
+![img](https://media.discordapp.net/attachments/831933957296619570/874544102685966376/unknown.png)
 ![img](https://media.discordapp.net/attachments/873088176514818098/874545213782233088/unknown.png)
 ![img](https://media.discordapp.net/attachments/873088176514818098/874545431005257768/unknown.png)
-![img](https://media.discordapp.net/attachments/873088176514818098/874545681656848394/unknown.png?width=951&height=452)
+![img](https://media.discordapp.net/attachments/873088176514818098/874545681656848394/unknown.png)
 ![img](https://media.discordapp.net/attachments/873088176514818098/874546417857871882/unknown.png)
 ![img](https://media.discordapp.net/attachments/831933957296619570/874544715754770442/unknown.png)
 
