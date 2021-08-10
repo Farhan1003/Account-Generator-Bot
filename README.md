@@ -80,6 +80,11 @@ Bot Cycles thru 4 different statuses each in 15seconds. You can change it via mo
 
 **16. If you get a error when running a command or starting up make sure you followed all of the steps and the Requirements.** 
 
+## Editing the status
+Go to file `index.js` scroll to Line `10` and edit those 4 lines to whatever statuses you want.
+
+**Make Sure your lines are in " " and don't delete , **
+
 ## Images
 https://media.discordapp.net/attachments/831933957296619570/874544102685966376/unknown.png)
 https://media.discordapp.net/attachments/873088176514818098/874545213782233088/unknown.png)
