@@ -91,8 +91,9 @@ https://media.discordapp.net/attachments/831933957296619570/874544715754770442/u
 ## Issues
 
 - Sometimes you can't delete a Category/Service and it shows error "File not found"
-- To fix that only use small letters in `.add`
-
+- To fix that only use small letters in `.add`.
+- Typing `.add` without specifying any category or account info sends an error msg on console.
+- To fix it don't type `.add` without any arguements.
 - To Submit an issue follow this link https://github.com/Farhan1003/Account-Genorator-discord.js/issues
 - Or Contact Naomi#1234 on discord
 
