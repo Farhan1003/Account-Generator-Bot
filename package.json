@@ -22,7 +22,7 @@
     "discord.js": "^11.5.1",
     "express": "^4.17.1",
     "firstline": "^2.0.2",
-    "line-reader": "^0.4.0"
+    "line-reader": "^0.4.0",
     "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2"
   }
