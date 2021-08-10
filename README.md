@@ -1,4 +1,4 @@
-# Account-Genorator-discord.js
+# Account Generator bot for discord.js
 
 ## About
 This CODE allows you to host a Discord.js bot with functionality such as -> Lettings your server users generate accounts Via a secure & easy to use method.
