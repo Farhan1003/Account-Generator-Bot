@@ -31,7 +31,7 @@ Keep in mind that the cooldown Value is in *MS* aka Miliseconds.
 
 **Change prefix**
 
-You can change prefix via `.change` command or in `settings.json`
+You can change prefix via `.change` command or in `settings.json`.
 
 **Statuses**
 
